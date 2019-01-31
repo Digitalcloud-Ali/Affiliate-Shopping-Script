@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rspages1" value="name:title;datatype:string,name:detail;datatype:blob,name:pageid;datatype:int" />
+	<infoitem key="UD_rscustom" value="name:kt_login_id;datatype:int" />
+</info>

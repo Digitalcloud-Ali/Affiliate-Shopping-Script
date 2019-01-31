@@ -1,0 +1,303 @@
+.boxbannerlisting {
+
+  margin: 0px auto;
+
+  padding: 0px;
+
+  background-image: url(/images/bg_banner.png);}
+
+.pagination {
+
+color:#666666;
+
+font-size:11px;
+
+font-weight:bold;
+
+font-family:Verdana, Arial, Helvetica, sans-serif;
+
+text-decoration:none;
+
+}
+
+.pagination:hover {
+
+color:#333333;
+
+font-size:11px;
+
+font-weight:bold;
+
+font-family:Verdana, Arial, Helvetica, sans-serif;
+
+text-decoration:none;
+
+}
+
+body
+
+{
+
+margin:0px;
+
+}
+
+.headback
+
+{
+
+background:url(/images/headback.gif);
+
+}
+
+.threebutton
+
+{
+
+background:url(/images/3button.gif);
+
+}
+
+.form
+
+{
+
+border-top:1px;
+
+border-bottom:1px;
+
+border-left:1px;
+
+border-right:1px;
+
+border-style:solid;
+
+border-width:normal;
+
+border-color:#E2E0D6;
+
+font-family:Arial, Helvetica, sans-serif;
+
+font-size:11px;
+
+font-weight:normal;
+
+height:18px;
+
+padding-top:4px;
+
+padding-left:5px;
+
+color:#8A8A8C;
+
+}
+
+.form:hover
+
+{
+
+border-top:1px;
+
+border-bottom:1px;
+
+border-left:1px;
+
+border-right:1px;
+
+border-style:solid;
+
+border-width:normal;
+
+border-color:#8DACD6;
+
+font-family:Arial, Helvetica, sans-serif;
+
+font-size:11px;
+
+font-weight:normal;
+
+height:18px;
+
+padding-top:4px;
+
+padding-left:5px;
+
+color:#8A8A8C;
+
+}
+
+.button
+
+{
+
+border-top:1px;
+
+border-bottom:1px;
+
+border-left:1px;
+
+border-right:1px;
+
+border-style:solid;
+
+border-width:normal;
+
+border-color:#E2E0D6;
+
+font-family:Arial, Helvetica, sans-serif;
+
+font-size:11px;
+
+font-weight:normal;
+
+height:25px;
+
+}
+
+.topborder
+
+{
+
+border-top:1px;
+
+border-bottom:1px;
+
+border-left:1px;
+
+border-right:1px;
+
+border-style:solid;
+
+border-width:normal;
+
+border-color:#E2E0D6;
+
+height:22px;
+
+}
+
+.topborder:hover
+
+{
+
+border-top:1px;
+
+border-bottom:1px;
+
+border-left:1px;
+
+border-right:1px;
+
+border-style:solid;
+
+border-width:normal;
+
+border-color:#B5CAD5;
+
+}
+
+.style2 {color: #5C9DBF; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; padding-right:5px; padding-left:5px;}
+
+.descriptionlight {color: #737B86; font-family: Arial, Helvetica, sans-serif; font-size: 11px; }
+
+.stylecates3 {color: #5C9DBF; font-family: Verdana,Arial, Helvetica, sans-serif; font-size: 10px; text-decoration:none;}
+
+.stylecates3:hover {color: #CF3200; font-family: Verdana,Arial, Helvetica, sans-serif; font-size: 10px;text-decoration:none; }
+
+.stylecates15 {color: #5C9DBF; font-family: Arial, Helvetica, sans-serif; font-size: 11px; text-decoration:none; font-weight:normal;}
+
+.stylecates15:hover {color: #CF3200; font-family: Arial, Helvetica, sans-serif; font-size: 11px;text-decoration:none;font-weight:normal; }
+.stylecates {color: #5C9DBF; font-family: Arial, Helvetica, sans-serif; font-size: 11px; text-decoration:none; }
+
+.stylecates:hover {color: #CF3200; font-family: Arial, Helvetica, sans-serif; font-size: 11px;text-decoration:none; }
+
+.stylecatestwo {color: #CF3200; font-family: Verdana,Arial, Helvetica, sans-serif; font-size: 10px; text-decoration:none;}
+
+.stylecatestwo:hover {color: #5C9DBF; font-family: Verdana,Arial, Helvetica, sans-serif; font-size: 10px;text-decoration:none; }
+
+.cateheading {color:#CF3200; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight:bold; text-decoration:none;}
+
+.cateheading:hover {color: #D99801; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight:bold; text-decoration:none;}
+
+.refineby {color: #564E3A; font-family: Arial, Helvetica, sans-serif; font-size: 11px; text-decoration:none; }
+
+.refineby:hover {color: #5C9DBF; font-family: Arial, Helvetica, sans-serif; font-size: 11px; text-decoration:none; }
+
+.styleli{color: #5C9DBF; font-family: Arial, Helvetica, sans-serif; font-size: 10px; padding-right:5px; padding-left:5px;}
+
+.style3 {color: #CCCCCC; ont-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px;}
+
+.style6 {
+
+	color: #444131;
+
+	ont-family: Verdana, Arial, Helvetica, sans-serif;
+
+	font-size: 11px;
+
+	font-weight: bold;
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+
+}
+
+.style9 {color: #D99801; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; }
+
+.pagestitle {color: #D99801; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; text-transform:capitalize;}
+
+.searchbottomlinks {	color: #BEB9A3;
+
+	font-size: 10px;
+
+	font-weight: normal;
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+
+	letter-spacing:3px;
+
+	text-transform: capitalize;
+
+}
+
+.searchbottomlinks:hover {	color: #BEB9A3;
+
+	font-size: 10px;
+
+	font-weight: normal;
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+
+	letter-spacing:3px;
+
+	text-transform: capitalize;
+
+}
+
+.arrows {color: #D99801; font-size: 10px; font-weight: normal; font-family: Verdana, Arial, Helvetica, sans-serif;  }
+
+.style23 {color: #CF3200; font-size: 10px; font-weight: normal; font-family: Verdana, Arial, Helvetica, sans-serif; letter-spacing: 2px; text-transform: capitalize; }
+
+.style28 {color: #5C9DBF; font-size: 10px; font-weight: normal; font-family: Verdana, Arial, Helvetica, sans-serif; letter-spacing: 2px; text-transform: capitalize; }
+
+.style28:hover {color: #5C9DBF; font-size: 10px; font-weight: normal; font-family: Verdana, Arial, Helvetica, sans-serif; letter-spacing: 2px; text-transform: capitalize; text-decoration:none; }
+
+.style29 {color: #CCCCCC; ont-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px;}
+
+.style30 {	color: #444131;
+
+	ont-family: Verdana, Arial, Helvetica, sans-serif;
+
+	font-size: 11px;
+
+	font-weight: bold;
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+
+}
+
+.refineby1 {color: #98A30E; font-family: Arial, Helvetica, sans-serif; font-size: 10px; text-decoration:none; }
+
+.refineby2 {color: #564E3A; font-family: Arial, Helvetica, sans-serif; font-size: 11px; text-decoration:none; }
+.style31 {color: #CB2800}
+.style32 {color: #CD2C00}
+.style33 {color: #CF3200}

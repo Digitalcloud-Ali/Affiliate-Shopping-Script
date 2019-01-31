@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /account/
+Disallow: /AKk9Ki39lk2997/
+Disallow: /images/
+Disallow: /includes/
+Disallow: /required_files/
+Disallow: /broken.php
+Disallow: /detail_products.php
+Disallow: /favicon.ico
+Disallow: /info.php
+Disallow: /pages.php
+Disallow: /product_check.php
+Disallow: /shop_check.php
+Disallow: /shops.php
+Disallow: /sub_products.php

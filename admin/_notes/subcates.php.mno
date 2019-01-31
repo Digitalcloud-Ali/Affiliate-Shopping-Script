@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rssubcates1" value="name:section;datatype:string,name:catename;datatype:string,name:subid;datatype:int" />
+	<infoitem key="UD_rscustom" value="name:kt_login_id;datatype:int" />
+</info>

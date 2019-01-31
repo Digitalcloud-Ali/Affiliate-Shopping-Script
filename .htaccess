@@ -1,0 +1,20 @@
+Options +FollowSymlinks
+RewriteEngine on
+
+RewriteRule ^expall/([^/]*)/([^/]*)/([^/]*)/$ /detail_products.php?cateid=$1&section=$2&show_all_nav_listproducts16=$3 [L]
+
+RewriteRule ^expsub/([^/]*)/([^/]*)/([^/]*)/([^/]*)/$ /sub_products.php?catename=$1&subid=$2&section=$3&show_all_nav_listproducts15=$4 [L]
+
+RewriteRule ^explore/([^/]*)/([^/]*)/$ /detail_products.php?cateid=$1&section=$2 [L]
+
+RewriteRule ^explore/([^/]*)/([^/]*)/([^/]*)/$ /sub_products.php?catename=$1&subid=$2&section=$3 [L]
+
+RewriteRule ^stores/([^/]*)/([^/]*)\.html$ /shops.php?shopid=$1&shopname=$2 [L]
+
+RewriteRule ^pages/([^/]*)\.html$ /pages.php?title=$1 [L]
+
+RewriteRule ^products/([^/]*)/([^/]*)/([^/]*)/([^/]*)\.html$ /info.php?productid=$1&catename=$2&section=$3&productname=$4 [L]
+
+RewriteRule ^process/([^/]*)/([^/]*)/([^/]*)/([^/]*)/$ /product_check.php?productid=$1&productname=$2&section=$3&catename=$4 [L]
+
+RewriteRule ^forwading/store/([^/]*)/([^/]*)/$ /shop_check.php?shopid=$1&shopname=$2 [L]

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsproducts1" value="name:productname;datatype:string,name:programname;datatype:string,name:currency;datatype:string,name:productdescription;datatype:blob,name:productprice;datatype:string,name:productid;datatype:int" />
+	<infoitem key="UD_rscustom" value="name:kt_login_id;datatype:int" />
+</info>

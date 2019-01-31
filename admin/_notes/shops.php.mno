@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsshops1" value="name:shopname;datatype:string,name:shopinfo;datatype:blob,name:shopimage;datatype:string,name:shoplink;datatype:string,name:shopid;datatype:int" />
+	<infoitem key="UD_rscustom" value="name:kt_login_id;datatype:int" />
+</info>

@@ -1,0 +1,9 @@
+<products>
+  <product name="Advanced Repeated Regions" version="1.0.0" />
+  <product name="Transaction Engine" version="1.0.0" />
+  <product name="Form Validation" version="1.0.0" />
+  <product name="Dynamic Lists & Forms" version="1.0.0" />
+  <product name="Form Controls" version="1.0.0" />
+  <product name="Send Email" version="1.0.0" />
+  <product name="User Login" version="1.0.0" />
+</products>
